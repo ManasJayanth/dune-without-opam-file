@@ -1,0 +1,9 @@
+{
+  "esy": {
+    "build": "dune build -p #{self.name}"
+  },
+  "dependencies": {
+    "@opam/dream": "*",
+    "@opam/dune": "2.9.2"
+  }
+}
